@@ -1,7 +1,7 @@
 # Describe solution that solves peak loadings problem for biggest european football website https://goal.com  
-Analyze all types of pages on the site
-Analyze  and list possible sources of peak loadings
-Describe possible solution for each type 
+- Analyze all types of pages on the site
+- Analyze  and list possible sources of peak loadings
+- Describe possible solution for each type 
 
 ---
 
